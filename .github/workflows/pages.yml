@@ -23,9 +23,6 @@ jobs:
         run: |
           mkdir _site
           cp *.html *.css *.js *.svg *.webp .nojekyll _site/
-          curl --fail --location --retry 3 'https://images.pexels.com/photos/7709145/pexels-photo-7709145.jpeg?auto=compress&w=900' --output _site/team-support.jpg
-          curl --fail --location --retry 3 'https://images.pexels.com/photos/7709164/pexels-photo-7709164.jpeg?auto=compress&w=900' --output _site/team-technical.jpg
-          curl --fail --location --retry 3 'https://images.pexels.com/photos/7710178/pexels-photo-7710178.jpeg?auto=compress&w=900' --output _site/team-partners.jpg
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
