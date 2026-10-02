@@ -1,4 +1,4 @@
-// Данные перенесены с magic-guard-connect.lovable.app по запросу владельца.
+// Портреты и стаж команды — демонстрационные данные
 window.MAGIC_CONFIG = {
   "leadEndpoint": "",
   "phone": "+7 (495) 120-45-67",
@@ -34,15 +34,24 @@ window.MAGIC_CONFIG = {
   "employees": [
     {
       "name": "Алина Соколова",
-      "role": "Команда мониторинга"
+      "role": "Команда мониторинга",
+      "photo": "alina.webp",
+      "tenure": "4 года",
+      "demo": true
     },
     {
       "name": "Михаил Беляев",
-      "role": "Специалист по подключениям"
+      "role": "Специалист по подключениям",
+      "photo": "mikhail.webp",
+      "tenure": "6 лет",
+      "demo": true
     },
     {
       "name": "Артур Каримов",
-      "role": "Партнёрская сеть"
+      "role": "Партнёрская сеть",
+      "photo": "artur.webp",
+      "tenure": "5 лет",
+      "demo": true
     }
   ],
   "leaders": []
