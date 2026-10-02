@@ -35,21 +35,21 @@ window.MAGIC_CONFIG = {
     {
       "name": "Алина Соколова",
       "role": "Команда мониторинга",
-      "photo": "alina.webp",
+      "photo": "alina-v3.webp",
       "tenure": "4 года",
       "demo": true
     },
     {
       "name": "Михаил Беляев",
       "role": "Специалист по подключениям",
-      "photo": "mikhail.webp",
+      "photo": "mikhail-v3.webp",
       "tenure": "6 лет",
       "demo": true
     },
     {
       "name": "Артур Каримов",
       "role": "Партнёрская сеть",
-      "photo": "artur.webp",
+      "photo": "artur-v3.webp",
       "tenure": "5 лет",
       "demo": true
     }
