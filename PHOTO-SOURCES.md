@@ -1,4 +1,4 @@
-Illustrative photographs from Pexels. Not MAGIC CONTROL employees or completed projects.
+Illustrative photographs from Pexels. Not CORVUS ARVENT employees or completed projects.
 License: https://www.pexels.com/license/
 Экраны системы видеонаблюдения: https://www.pexels.com/photo/3315303/
 Сотрудник охраны у входа в здание: https://www.pexels.com/photo/35562107/
